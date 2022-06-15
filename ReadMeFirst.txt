@@ -11,4 +11,3 @@ The Password is ASDF1234
 
 Please Begin with "Inventory.html"
 
-Written by Kenneth McElveen for CTS-110 Fall 2020 instructor Mr. Tyree
